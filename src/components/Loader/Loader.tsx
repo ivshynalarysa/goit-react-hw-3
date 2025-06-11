@@ -1,4 +1,5 @@
 import css from './Loader.module.css';
+//import { BeatLoader  } from "react-icons/fa";
 
 export default function Loader() {
 
